@@ -1,7 +1,7 @@
 # Data Engineer Takehome Test
 Please clone this repo in your account, send us the link of the solution in your GitHub account together with your application.
 
-##Problem 1:
+## Problem 1:
 Build a Python script that detects faces in an image using OpenCV, and saves the headshots of the detected faces to a specified directory. The script should take as input a file path to an image, a directory path to save the headshots, and output the number of faces detected in the image.
 Instructions:
 - Use OpenCV's Haar Cascade classifier for face detection
